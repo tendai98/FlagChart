@@ -15,7 +15,13 @@ body{
 }
 
 .borderLine{
-    height: 95vh;
+    height: 100vh;
     width: 0.05vw;
     background-color: #848484;
+}
+
+.chart{
+    margin-top: 5%;
+    height: 75vh;
+    width: 80vw;
 }
