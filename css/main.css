@@ -1,0 +1,21 @@
+body{
+    font-family: Inter;
+    background-color: rgba(0, 0, 0, 0.705);
+    background-blend-mode:multiply;
+    background-image: url("../img/bg.png");
+}
+
+.container{
+    display: flex;
+    color: white;
+    position: fixed;
+    top: 50%;
+    right: 5%;
+    transform: translateY(-50%);
+}
+
+.borderLine{
+    height: 95vh;
+    width: 0.05vw;
+    background-color: #848484;
+}
