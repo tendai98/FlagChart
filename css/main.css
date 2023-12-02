@@ -21,6 +21,8 @@ body{
 }
 
 .chart{
+    margin-top: 5%;
     height: 75vh;
     width: 80vw;
+    overflow-y: auto;
 }
